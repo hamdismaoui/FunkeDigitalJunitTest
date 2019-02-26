@@ -1,0 +1,169 @@
+# Created at 2019-02-26T00:52:55.899
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-02-26T00:52:59.378
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[10 : https://www.abendblatt.de/region/stormarn/article216292979/Jetzt-hat-Barsbuettel-einen-Plan-gegen-Elterntaxis.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:52:59.384
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[11 : https://www.abendblatt.de/sport/fussball/st-pauli/article216292927/St-Pauli-FCSP-Sahin-Transfer-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:00.963
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[11 : https://www.abendblatt.de/sport/fussball/st-pauli/article216292927/St-Pauli-FCSP-Sahin-Transfer-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:00.968
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[11 : https://www.abendblatt.de/sport/fussball/st-pauli/article216292927/St-Pauli-FCSP-Sahin-Transfer-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:03.841
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[11 : https://www.abendblatt.de/sport/fussball/st-pauli/article216292927/St-Pauli-FCSP-Sahin-Transfer-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:03.846
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[11 : https://www.abendblatt.de/sport/fussball/st-pauli/article216292927/St-Pauli-FCSP-Sahin-Transfer-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:07.684
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[11 : https://www.abendblatt.de/sport/fussball/st-pauli/article216292927/St-Pauli-FCSP-Sahin-Transfer-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:07.689
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[12 : https://www.abendblatt.de/hamburg/article216292967/FC-St-Pauli-verleiht-Sahin-bis-Saisonende-an-FC-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:08.984
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[12 : https://www.abendblatt.de/hamburg/article216292967/FC-St-Pauli-verleiht-Sahin-bis-Saisonende-an-FC-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:08.989
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[12 : https://www.abendblatt.de/hamburg/article216292967/FC-St-Pauli-verleiht-Sahin-bis-Saisonende-an-FC-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:11.103
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[12 : https://www.abendblatt.de/hamburg/article216292967/FC-St-Pauli-verleiht-Sahin-bis-Saisonende-an-FC-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:11.108
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[12 : https://www.abendblatt.de/hamburg/article216292967/FC-St-Pauli-verleiht-Sahin-bis-Saisonende-an-FC-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:11.852
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[12 : https://www.abendblatt.de/hamburg/article216292967/FC-St-Pauli-verleiht-Sahin-bis-Saisonende-an-FC-Ingolstadt.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:11.857
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[13 : https://www.abendblatt.de/region/stormarn/article216284585/Ahrensburg-Feuer-in-Fluechtlingsunterkunft-am-Kornkamp.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:14.157
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[13 : https://www.abendblatt.de/region/stormarn/article216284585/Ahrensburg-Feuer-in-Fluechtlingsunterkunft-am-Kornkamp.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:14.163
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[13 : https://www.abendblatt.de/region/stormarn/article216284585/Ahrensburg-Feuer-in-Fluechtlingsunterkunft-am-Kornkamp.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:15.558
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[13 : https://www.abendblatt.de/region/stormarn/article216284585/Ahrensburg-Feuer-in-Fluechtlingsunterkunft-am-Kornkamp.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:15.563
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[13 : https://www.abendblatt.de/region/stormarn/article216284585/Ahrensburg-Feuer-in-Fluechtlingsunterkunft-am-Kornkamp.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:17.401
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[13 : https://www.abendblatt.de/region/stormarn/article216284585/Ahrensburg-Feuer-in-Fluechtlingsunterkunft-am-Kornkamp.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:17.409
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[14 : https://www.abendblatt.de/reise/article216292879/Bei-Last-Minute-Angeboten-besser-vorsichtig-sein.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:18.592
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[14 : https://www.abendblatt.de/reise/article216292879/Bei-Last-Minute-Angeboten-besser-vorsichtig-sein.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:18.597
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[14 : https://www.abendblatt.de/reise/article216292879/Bei-Last-Minute-Angeboten-besser-vorsichtig-sein.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:23.124
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[14 : https://www.abendblatt.de/reise/article216292879/Bei-Last-Minute-Angeboten-besser-vorsichtig-sein.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:23.129
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[14 : https://www.abendblatt.de/reise/article216292879/Bei-Last-Minute-Angeboten-besser-vorsichtig-sein.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:24.022
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[14 : https://www.abendblatt.de/reise/article216292879/Bei-Last-Minute-Angeboten-besser-vorsichtig-sein.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:24.027
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[15 : https://www.abendblatt.de/reise/article216292597/Flugverspaetung-wegen-Maus-an-Bord.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:26.511
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[15 : https://www.abendblatt.de/reise/article216292597/Flugverspaetung-wegen-Maus-an-Bord.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:26.517
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[15 : https://www.abendblatt.de/reise/article216292597/Flugverspaetung-wegen-Maus-an-Bord.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:27.803
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[15 : https://www.abendblatt.de/reise/article216292597/Flugverspaetung-wegen-Maus-an-Bord.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:27.809
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[15 : https://www.abendblatt.de/reise/article216292597/Flugverspaetung-wegen-Maus-an-Bord.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:29.416
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[15 : https://www.abendblatt.de/reise/article216292597/Flugverspaetung-wegen-Maus-an-Bord.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:29.423
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[16 : https://www.abendblatt.de/hamburg/article216292875/Berkay-Oezcan-absolviert-erstes-Training-beim-Hamburger-SV.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:31.722
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[16 : https://www.abendblatt.de/hamburg/article216292875/Berkay-Oezcan-absolviert-erstes-Training-beim-Hamburger-SV.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:31.730
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[16 : https://www.abendblatt.de/hamburg/article216292875/Berkay-Oezcan-absolviert-erstes-Training-beim-Hamburger-SV.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:33.872
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[16 : https://www.abendblatt.de/hamburg/article216292875/Berkay-Oezcan-absolviert-erstes-Training-beim-Hamburger-SV.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:33.878
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[16 : https://www.abendblatt.de/hamburg/article216292875/Berkay-Oezcan-absolviert-erstes-Training-beim-Hamburger-SV.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:34.791
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isHValidTest[16 : https://www.abendblatt.de/hamburg/article216292875/Berkay-Oezcan-absolviert-erstes-Training-beim-Hamburger-SV.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:34.805
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[17 : https://www.abendblatt.de/region/niedersachsen/article216292869/Handball-Frauen-bestreiten-Laenderspiel-in-Oldenburg.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:35.963
+Unexpected IOException: 6,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,pHasNoRestrictedElementsTest[17 : https://www.abendblatt.de/region/niedersachsen/article216292869/Handball-Frauen-bestreiten-Laenderspiel-in-Oldenburg.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+
+# Created at 2019-02-26T00:53:35.969
+Unexpected IOException: 5,1,com.funkedigital.maven.TestFunkeDigital.TestAbendblatt,isPValidTest[17 : https://www.abendblatt.de/region/niedersachsen/article216292869/Handball-Frauen-bestreiten-Laenderspiel-in-Oldenburg.html](com.funkedigital.maven.TestFunkeDigital.TestAbendblatt),null,null,null
+
+

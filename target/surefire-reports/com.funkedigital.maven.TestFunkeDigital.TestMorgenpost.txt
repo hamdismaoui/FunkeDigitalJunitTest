@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.funkedigital.maven.TestFunkeDigital.TestMorgenpost
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.556 s - in com.funkedigital.maven.TestFunkeDigital.TestMorgenpost
